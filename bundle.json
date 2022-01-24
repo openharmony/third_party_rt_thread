@@ -1,0 +1,39 @@
+{
+    "name": "@ohos/rt_thread",
+    "version": "",
+    "description": "Third-party open-source software RT-Thread | 三方开源软件RT-Thread",
+    "homePage": "https://gitee.com/openharmony",
+    "license": "Apache V2",
+    "repository": "https://gitee.com/openharmony/third_party_rt_thread",
+    "domain": "os",
+    "language": "",
+    "publishAs": "code-segment",
+    "private": false,
+    "scripts": {},
+    "tags": [
+        "third_party"
+    ],
+    "keywords": [
+        "third-party",
+        "rt-thread"
+    ],
+    "envs": {},
+    "dirs": {},
+    "segment": {
+        "destPath": "third_party/rt-thread"
+    },
+    "component": {
+        "name": "thirdparty_rt_thread",
+        "subsystem": "",
+        "syscap": [],
+        "features": [],
+        "adapted_system_type": [],
+        "rom": "",
+        "ram": "",
+        "build": {
+            "sub_component": [],
+            "inner_kits": [],
+            "test": []
+        }
+    }
+}
